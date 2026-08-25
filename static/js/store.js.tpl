@@ -2239,6 +2239,8 @@ DOMContentLoaded.addEventOrExecute(() => {
             LS.freeShippingProgress(true);
 
         {% endif %}
+
+        LS.subscriptionChangeVariant(variant);
 	}
 
 	{# /* // Trigger change variant */ #}
@@ -2600,6 +2602,27 @@ DOMContentLoaded.addEventOrExecute(() => {
         }
 
         if (!jQueryNuvem(this).hasClass('contact')) {
+
+            var subscription_callback_error = function() {
+                $productButtonAdding.removeClass("active");
+                $productButtonText.fadeIn();
+                $productButtonPlaceholder.removeAttr("style").hide();
+                $productButton.show();
+
+                if (isQuickShop) {
+                    $productButtonContainer.show();
+                }
+            };
+
+            const subscriptionValidResult = LS.subscriptionSubmit(
+                $productContainer,
+                subscription_callback_error,
+                e
+            );
+
+            if (subscriptionValidResult && subscriptionValidResult.changeCartSubmit) {
+                return;
+            }
 
             {% if settings.ajax_cart %}
                 e.preventDefault();

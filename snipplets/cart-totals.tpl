@@ -18,7 +18,7 @@
 {% endif %}
 
 {# IMPORTANT Do not remove this hidden subtotal, it is used by JS to calculate cart total #}
-<div class="subtotal-price hidden" data-priceraw="{{ cart.total }}"></div>
+<div class="js-subtotal-price subtotal-price hidden" data-priceraw="{{ cart.total }}"></div>
 
 {# Used to assign currency to total #}
 <div id="store-curr" class="hidden">{{ cart.currency }}</div>

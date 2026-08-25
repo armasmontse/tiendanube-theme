@@ -87,7 +87,7 @@
     {# Product price #}
 
     {% if product.display_price %}
-        <div class="price-container" data-store="product-price-{{ product.id }}">
+        <div class="js-price-container price-container" data-store="product-price-{{ product.id }}">
             <div class="mb-3">
                 <span class="d-inline-block mr-1">
                 	<div class="js-price-display h3" id="price_display" {% if not product.display_price %}style="display:none;"{% endif %} data-product-price="{{ product.price }}">{% if product.display_price %}{{ product.price | money }}{% endif %}</div>
@@ -138,6 +138,17 @@
         </div>
     {% endif %}
 
+    {{ component('subscriptions/subscription-price', {
+        subscription_classes: {
+            container: 'text-center text-md-left mb-3',
+            prices_container: 'mb-1',
+            price_compare: 'h4 price-compare mb-0',
+            price_with_subscription: 'h4 mb-0',
+            discount_container: 'h6 text-accent mb-1',
+            price_without_taxes_container: 'mb-2 font-small opacity-60',
+        },
+    }) }}
+
     {# Promotional text #}
 
     {% if product.promotional_offer and not product.promotional_offer.script.is_percentage_off and product.display_price %}
@@ -187,6 +198,10 @@
             {% set state = store.is_catalog ? 'catalog' : (product.available ? product.display_price ? 'cart' : 'contact' : 'nostock') %}
             {% set texts = {'cart': "Agregar al carrito", 'contact': "Consultar precio", 'nostock': "Sin stock", 'catalog': "Consultar"} %}
             <div class="{% if show_product_quantity %}col-8 {% if not home_main_product %}col-md-9{% endif %}{% else %}col-12{% endif %}">
+
+                {{ component('subscriptions/subscription-selector', {
+                    product: product
+                }) }}
 
                 {# Add to cart CTA #}
 

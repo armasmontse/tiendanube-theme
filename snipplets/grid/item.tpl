@@ -72,7 +72,12 @@
                 </div>
                 {% include 'snipplets/labels.tpl' with {labels_floating: true} %}
             </div>
-            {% if (settings.quick_shop or settings.product_color_variants) and product.available and product.display_price and product.variations %}
+            {% if
+                ((settings.quick_shop and not product.isSubscribable()) or settings.product_color_variants)
+                and product.available
+                and product.display_price
+                and product.variations
+            %}
 
                 {# Hidden product form to update item image and variants: Also this is used for quickshop popup #}
 
@@ -127,7 +132,7 @@
                                 {{ product.compare_at_price | money }}
                             </span>
 
-                             {% set product_can_show_installments = product.show_installments and product.display_price and product.get_max_installments.installment > 1 and settings.product_installments %}
+                            {% set product_can_show_installments = product.show_installments and product.display_price and product.get_max_installments.installment > 1 and settings.product_installments %}
 
                             {% set discount_price_spacing_classes = product_can_show_installments ? 'mb-2' %}
 
@@ -145,32 +150,48 @@
                             {% endif %}
                         </div>
                     {% endif %}
+
+                    {{ component('subscriptions/subscription-message', {
+                        subscription_classes: {
+                            container: 'text-accent mt-2',
+                        },
+                    }) }}
+
                     {% if product.available and product.display_price and settings.quick_shop %}
                         {% if settings.quick_shop %}
                             <div class="item-actions d-inline-block">
-                                {% if product.variations %}
 
-                                    {# Open quickshop popup if has variants #}
-
-                                    <span data-toggle="#quickshop-modal" href="#" class="js-quickshop-modal-open {% if slide_item %}js-quickshop-slide{% endif %} js-modal-open btn btn-primary btn-small btn-smallest-md px-4" title="{{ 'Compra rápida de' | translate }} {{ product.name }}" aria-label="{{ 'Compra rápida de' | translate }} {{ product.name }}" data-component="product-list-item.add-to-cart" data-component-value="{{product.id}}">
-                                        <span class="js-open-quickshop-wording">{{ 'Comprar' | translate }}</span>
+                                {% if product.isSubscribable() %}
+                                    <span class="btn btn-primary btn-small btn-smallest-md px-4">
+                                        {{ 'Comprar' | translate }}
                                     </span>
                                 {% else %}
-                                    {# If not variants add directly to cart #}
-                                    <form class="js-product-form" method="post" action="{{ store.cart_url }}">
-                                        <input type="hidden" name="add_to_cart" value="{{product.id}}" />
-                                        {% set state = store.is_catalog ? 'catalog' : (product.available ? product.display_price ? 'cart' : 'contact' : 'nostock') %}
-                                        {% set texts = {'cart': "Comprar", 'contact': "Consultar precio", 'nostock': "Sin stock", 'catalog': "Consultar"} %}
 
-                                        <div class="js-item-submit-container item-submit-container position-relative float-left d-inline-block w-100">
-                                            <input type="submit" class="js-addtocart js-prod-submit-form js-quickshop-icon-add btn btn-primary btn-small btn-smallest-md px-4 {{ state }}" value="{{ texts[state] | translate }}" alt="{{ texts[state] | translate }}" {% if state == 'nostock' %}disabled{% endif %} data-component="product-list-item.add-to-cart" data-component-value="{{ product.id }}"/>
-                                        </div>
+                                    {% if product.variations %}
 
-                                        {# Fake add to cart CTA visible during add to cart event #}
+                                        {# Open quickshop popup if has variants #}
 
-                                        {% include 'snipplets/placeholders/button-placeholder.tpl' with {direct_add: true} %}
-                                    </form>
+                                        <span data-toggle="#quickshop-modal" href="#" class="js-quickshop-modal-open {% if slide_item %}js-quickshop-slide{% endif %} js-modal-open btn btn-primary btn-small btn-smallest-md px-4" title="{{ 'Compra rápida de' | translate }} {{ product.name }}" aria-label="{{ 'Compra rápida de' | translate }} {{ product.name }}" data-component="product-list-item.add-to-cart" data-component-value="{{product.id}}">
+                                            <span class="js-open-quickshop-wording">{{ 'Comprar' | translate }}</span>
+                                        </span>
+                                    {% else %}
+                                        {# If not variants add directly to cart #}
+                                        <form class="js-product-form" method="post" action="{{ store.cart_url }}">
+                                            <input type="hidden" name="add_to_cart" value="{{product.id}}" />
+                                            {% set state = store.is_catalog ? 'catalog' : (product.available ? product.display_price ? 'cart' : 'contact' : 'nostock') %}
+                                            {% set texts = {'cart': "Comprar", 'contact': "Consultar precio", 'nostock': "Sin stock", 'catalog': "Consultar"} %}
+
+                                            <div class="js-item-submit-container item-submit-container position-relative float-left d-inline-block w-100">
+                                                <input type="submit" class="js-addtocart js-prod-submit-form js-quickshop-icon-add btn btn-primary btn-small btn-smallest-md px-4 {{ state }}" value="{{ texts[state] | translate }}" alt="{{ texts[state] | translate }}" {% if state == 'nostock' %}disabled{% endif %} data-component="product-list-item.add-to-cart" data-component-value="{{ product.id }}"/>
+                                            </div>
+
+                                            {# Fake add to cart CTA visible during add to cart event #}
+
+                                            {% include 'snipplets/placeholders/button-placeholder.tpl' with {direct_add: true} %}
+                                        </form>
+                                    {% endif %}
                                 {% endif %}
+
                             </div>
                         {% endif %}
                     {% endif %}
