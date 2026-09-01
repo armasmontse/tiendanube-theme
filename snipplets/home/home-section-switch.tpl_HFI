@@ -1416,9 +1416,9 @@ a.NT-produc-seemore:hover {
 		<div id="carrucon" class="containerflex-carrucel carrucel-container-index">
 
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/magnesio/" target="_blank">
-					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260901_Banner_SH_M4gnesio_desk.jpg" loading="eager" fetchpriority="high" alt="Magnesio Enzacta| Producto del mes">
-					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260901_Banner_SH_M4gnesio_mob.jpg" loading="eager" fetchpriority="high" alt="Magnesio Enzacta | Producto del mes">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-hfi2" target="_blank">
+					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260803_Banner_SH_HFI_desk.jpg" loading="eager" fetchpriority="high" alt="alfa HFI Enzacta| Producto del mes">
+					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260803_Banner_SH_HFI_mob.jpg" loading="eager" fetchpriority="high" alt="alfa HFI Enzacta | Producto del mes">
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-aparecer">
@@ -2238,7 +2238,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag wellness-tag">WELLNESS</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-hfi2/" target="_blank">
-							<img alt="alfa HFI contiene ácidos húmico y fúlvico, que protegen tus células de manera natural, impidiendo que los virus y bacterias entren a tu cuerpo. Esta fuente concentrada de aminoácidos y minerales esenciales, como calcio, magnesio, cobre y zinc, eleva tus defensas para ayudarte a evitar enfermedades." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/HFI-250428.png">
+							<img alt="alfa HFI contiene ácidos húmico y fúlvico, que protegen tus células de manera natural, impidiendo que los virus y bacterias entren a tu cuerpo. Esta fuente concentrada de aminoácidos y minerales esenciales, como calcio, magnesio, cobre y zinc, eleva tus defensas para ayudarte a evitar enfermedades." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/260803_HFI_Mes.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
@@ -2575,7 +2575,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag partner-tag">PARTNER PRODUCTS</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/probio360/">
-							<img alt="ProBio360 es la solución integral diseñada para proteger y optimizar tu 'segundo cerebro': el intestino" src="https://enzactamedia.enzacta.com/shopenzacta/img/ProBio_Logo__260901.png">
+							<img alt="ProBio360 es la solución integral diseñada para proteger y optimizar tu 'segundo cerebro': el intestino" src="https://enzactamedia.enzacta.com/shopenzacta/img/PP-ProBio360-250608.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
@@ -2725,7 +2725,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag partner-tag">PARTNER PRODUCTS</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/magnesio/">
-							<img alt="Enriquece tus días y descansa mejor por las noches con nuestra versión exclusiva de Magnesio con Vitamina C, diseñada para complementar tu vida wellness. Esta fórmula única combina cuatro formas de magnesio, un mineral esencial para numerosas funciones en el organismo, junto con vitamina C, para darte un boost de antioxidantes." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/M4gnesio_badge__260901.png">
+							<img alt="Enriquece tus días y descansa mejor por las noches con nuestra versión exclusiva de Magnesio con Vitamina C, diseñada para complementar tu vida wellness. Esta fórmula única combina cuatro formas de magnesio, un mineral esencial para numerosas funciones en el organismo, junto con vitamina C, para darte un boost de antioxidantes." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/Magnesio-250428b.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
