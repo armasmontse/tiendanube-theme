@@ -3,9 +3,9 @@
 	{# Wording to notice that adding one more product free shipping is achieved #}
 
 	{% if calculator_label %}
-	<div class="js-shipping-add-product-label" {% if hide_free_shipping_minimum %}style="display: none;"{% endif %}>
+	<div class="js-free-shipping-minimum-message js-shipping-add-product-label" {% if hide_free_shipping_minimum %}style="display: none;"{% endif %}>
 	{% else %}
-	<div class="js-free-shipping-add-product-title position-absolute transition-up w-100 {% if not hide_free_shipping_minimum %}transition-up-active{% endif %} font-small mb-3">
+	<div class="js-free-shipping-minimum-message js-free-shipping-add-product-title position-absolute transition-up w-100 {% if not hide_free_shipping_minimum %}transition-up-active{% endif %} font-small mb-3">
 	{% endif %}
 		<span class='js-fs-add-this-product'>{{ "¡Agregá este producto y " | translate }}</span>
 		<span class='js-fs-add-one-more' style='display: none;'>{{ "¡Agregá uno más y " | translate }}</span>

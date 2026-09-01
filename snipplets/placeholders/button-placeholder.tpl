@@ -13,7 +13,9 @@
             {{ '¡Listo!' | translate }}
         </span>
         <div class="js-addtocart-adding transition-container">
-            {{ 'Agregando...' | translate }}
+            <span class="js-addtocart-adding-text">
+                {{ 'Agregando...' | translate }}
+            </span>
         </div>
     </div>
 </div>

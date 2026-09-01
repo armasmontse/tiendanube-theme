@@ -113,7 +113,7 @@
 
 							{# Free shipping achieved calculator label #}
 
-							<div class="form-label {% if free_shipping_minimum_label_changes_visibility %}js-free-shipping-message{% endif %} text-accent mb-2 ml-1" {% if not cart.free_shipping.cart_has_free_shipping or hide_cart_free_shipping_message %}style="display: none;"{% endif %}>
+							<div class="js-product-form-free-shipping-message form-label {% if free_shipping_minimum_label_changes_visibility %}js-free-shipping-message{% endif %} text-accent mb-2 ml-1" {% if not cart.free_shipping.cart_has_free_shipping or hide_cart_free_shipping_message %}style="display: none;"{% endif %}>
 								{{ "¡Genial! Tenés envío gratis" | translate }}
 							</div>
 

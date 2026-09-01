@@ -5796,22 +5796,32 @@ section.page-header {
   }
 }
 
-
-// STYLES RULES FOR IBO BADGE ON MENU ----- FDR ---- END ---- END ---- END ---- END 
+// STYLES RULES FOR IBO BADGE ON MENU ----- FDR ---- END ---- END ---- END ---- END
 
 // SUBSCRIPTIONS ----- START
 
 .form-select-options {
     position: absolute;
-    z-index: 10;
+    top: 100%;
+    left: 0;
+    z-index: 200;
     width: 100%;
-    max-height: 240px;
+    max-height: 200px;
+    margin-top: 5px;
+    list-style: none;
     overflow-y: auto;
+    opacity: 0;
+    transition: all 0.2s ease;
+
+    &.open {
+        opacity: 1;
+    }
 }
 
 .form-select-option {
+    padding: 12px;
     cursor: pointer;
+    transition: all 0.4s ease;
 }
 
 // SUBSCRIPTIONS ----- END
-
