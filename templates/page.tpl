@@ -1,4 +1,6 @@
-{% embed "snipplets/page-header.tpl" %}
+{% embed "snipplets/page-header.tpl" with {
+	page_header_title_class: 'text-center'
+} %}
 	{% block page_header_text %}{{ page.name }}{% endblock page_header_text %}
 {% endembed %}
 
@@ -28,7 +30,7 @@ body
 <section class="user-content pb-5">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-8">
+			<div class="col-md-8 mx-auto">
 				{{ page.content }}
 			</div>
 		</div>
