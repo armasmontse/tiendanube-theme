@@ -1416,31 +1416,37 @@ a.NT-produc-seemore:hover {
 		<div id="carrucon" class="containerflex-carrucel carrucel-container-index">
 
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/magnesio/" target="_blank">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/magnesio/">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260901_Banner_SH_M4gnesio_desk.jpg" loading="eager" fetchpriority="high" alt="Magnesio Enzacta| Producto del mes">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260901_Banner_SH_M4gnesio_mob.jpg" loading="eager" fetchpriority="high" alt="Magnesio Enzacta | Producto del mes">
 				</a>
 			</div>
+			<div class="block12 carrucel-container carrucel-desaparecer">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos">
+					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260904_Banner_SH_EasyShop_desk.jpg" loading="eager" fetchpriority="high" alt="Easy Shop de Enzacta">
+					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260904_Banner_SH_EasyShop_mob.jpg" loading="eager" fetchpriority="high" alt="Easy Shop de Enzacta">
+				</a>
+			</div>
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/paquete-biovital360" target="_blank">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/paquete-biovital360">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260617_Banner_SH_BioVital_desk.jpg" loading="eager" fetchpriority="high" alt="Paquete BioVital360">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260617_Banner_SH_BioVital_mob.jpg" loading="eager" fetchpriority="high" alt="Paquete BioVital360">
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/probio360" target="_blank">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/probio360">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260609_Banner_SH_Probio_desk.jpg" loading="lazy" fetchpriority="high" alt="ProBio360 | Lanzamiento">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260609_Banner_SH_Probio_mob_v2.jpg" loading="lazy" fetchpriority="high" alt="ProBio360 | Lanzamiento">
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-dha" target="_blank">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-dha">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2605_Banner_SH_DHA_desk.jpg" loading="lazy">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2605_Banner_SH_DHA_mob.jpg" loading="lazy">
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-rxp-con-resveratrol" target="_blank">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-rxp-con-resveratrol">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2603_Banner_SH_RXP_desktop.jpg" loading="lazy">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2603_Banner_SH_RXP_mobile.jpg" loading="lazy">
 				</a>
@@ -1466,6 +1472,18 @@ a.NT-produc-seemore:hover {
 							<div class="dotsc">
 								<div class="innerbackdot"></div>
 								<div class="innerdots"></div>
+							</div>
+						</td>
+						<td class="dotscs">
+							<div class="innerdotc_pause">
+								<svg viewBox="0 0 20 20">
+									<path class="st0" d="M6.8,3.9h0c1.1,0,2,.9,2,2v8.3c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2V5.8c0-1.1.9-2,2-2Z"/>
+									<rect class="st0" x="11.8" y="3.9" width="4" height="12.3" rx="2" ry="2"/>
+								</svg>
+							</div>
+							<div class="dotsc">
+								<div class="innerdots"></div>
+								<div class="innerbackdot"></div>
 							</div>
 						</td>
 						<td class="dotscs">
@@ -1572,6 +1590,18 @@ a.NT-produc-seemore:hover {
 					<div class="dotsc">
 						<div class="innerbackdot"></div>
 						<div class="innerdots"></div>
+					</div>
+				</td>
+				<td class="dotscs">
+					<div class="innerdotc_pause">
+						<svg viewBox="0 0 20 20">
+							<path class="st0" d="M6.8,3.9h0c1.1,0,2,.9,2,2v8.3c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2V5.8c0-1.1.9-2,2-2Z"/>
+							<rect class="st0" x="11.8" y="3.9" width="4" height="12.3" rx="2" ry="2"/>
+						</svg>
+					</div>
+					<div class="dotsc">
+						<div class="innerdots"></div>
+						<div class="innerbackdot"></div>
 					</div>
 				</td>
 				<td class="dotscs">
