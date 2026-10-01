@@ -1416,9 +1416,9 @@ a.NT-produc-seemore:hover {
 		<div id="carrucon" class="containerflex-carrucel carrucel-container-index">
 
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/magnesio/">
-					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260901_Banner_SH_M4gnesio_desk.jpg" loading="eager" fetchpriority="high" alt="Magnesio Enzacta| Producto del mes">
-					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260901_Banner_SH_M4gnesio_mob.jpg" loading="eager" fetchpriority="high" alt="Magnesio Enzacta | Producto del mes">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-cafe-fusion/">
+					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Banner_SH_Cafe_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta| Producto del mes">
+					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Banner_SH_Cafe_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Producto del mes">
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-desaparecer">
@@ -2485,7 +2485,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-cafe-fusion/" target="_blank">
-							<img alt="alfa CAFÉ FUSION Signature Blend está hecho con granos de café 100% arábigo colombiano, adicionado con Coffeeberry, para darte sabor, aroma y salud en cada taza." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/CAFE-250428.png">
+							<img alt="alfa CAFÉ FUSION Signature Blend está hecho con granos de café 100% arábigo colombiano, adicionado con Coffeeberry, para darte sabor, aroma y salud en cada taza." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001__Cafe.jpg">
 						</a>
 
 						<div class="product-promotional-icon-container">
@@ -2755,7 +2755,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag partner-tag">PARTNER PRODUCTS</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/magnesio/">
-							<img alt="Enriquece tus días y descansa mejor por las noches con nuestra versión exclusiva de Magnesio con Vitamina C, diseñada para complementar tu vida wellness. Esta fórmula única combina cuatro formas de magnesio, un mineral esencial para numerosas funciones en el organismo, junto con vitamina C, para darte un boost de antioxidantes." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/M4gnesio_badge__260901.png">
+							<img alt="Enriquece tus días y descansa mejor por las noches con nuestra versión exclusiva de Magnesio con Vitamina C, diseñada para complementar tu vida wellness. Esta fórmula única combina cuatro formas de magnesio, un mineral esencial para numerosas funciones en el organismo, junto con vitamina C, para darte un boost de antioxidantes." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/Magnesio-250428.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
