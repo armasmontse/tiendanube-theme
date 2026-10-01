@@ -2755,7 +2755,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag partner-tag">PARTNER PRODUCTS</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/magnesio/">
-							<img alt="Enriquece tus días y descansa mejor por las noches con nuestra versión exclusiva de Magnesio con Vitamina C, diseñada para complementar tu vida wellness. Esta fórmula única combina cuatro formas de magnesio, un mineral esencial para numerosas funciones en el organismo, junto con vitamina C, para darte un boost de antioxidantes." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/Magnesio-250428.png">
+							<img alt="Enriquece tus días y descansa mejor por las noches con nuestra versión exclusiva de Magnesio con Vitamina C, diseñada para complementar tu vida wellness. Esta fórmula única combina cuatro formas de magnesio, un mineral esencial para numerosas funciones en el organismo, junto con vitamina C, para darte un boost de antioxidantes." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_M4gnesio_v3.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
