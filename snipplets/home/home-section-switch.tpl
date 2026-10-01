@@ -2485,7 +2485,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-cafe-fusion/" target="_blank">
-							<img alt="alfa CAFÉ FUSION Signature Blend está hecho con granos de café 100% arábigo colombiano, adicionado con Coffeeberry, para darte sabor, aroma y salud en cada taza." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001__Cafe.jpg">
+							<img alt="alfa CAFÉ FUSION Signature Blend está hecho con granos de café 100% arábigo colombiano, adicionado con Coffeeberry, para darte sabor, aroma y salud en cada taza." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Cafe_v2.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
