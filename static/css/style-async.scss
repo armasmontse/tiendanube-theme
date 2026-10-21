@@ -5832,3 +5832,8 @@ section.page-header {
     /* background: red; */
     margin: 0px 0 10px 20px;
 }
+
+// MAG 261021
+.alert.m-bottom.full-width.alert-info {
+	display: none !important;
+}
