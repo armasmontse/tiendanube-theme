@@ -9,6 +9,11 @@
         {% embed "snipplets/page-header.tpl" with {container: false, padding: false, page_header_title_class: 'js-product-name mb-3'} %}
             {% block page_header_text %}{{ product.name }}{% endblock page_header_text %}
         {% endembed %}
+        {% if product.name == "alfa PXP ROYALE con 30 sobres" %}
+            <a href="https://mx.shopenzacta.com/alfa-pxp-royale/" target="_blank" class="link-more-info-product">
+                Saber más del producto >
+            </a>
+        {% endif %}
         {% if product.name == "alfa PXP ROYALE" %}
             <a href="https://mx.shopenzacta.com/alfa-pxp-royale/" target="_blank" class="link-more-info-product">
                 Saber más del producto >
@@ -40,7 +45,7 @@
             </a>
         {% endif %}
         {% if product.name == "alfa YAKUNAAH" %}
-            <a href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" target="_blank" class="link-more-info-product">
+            <a href="https://mx.shopenzacta.com/alfa-yakunaah1/" target="_blank" class="link-more-info-product">
                 Saber más del producto >
             </a>
         {% endif %}
