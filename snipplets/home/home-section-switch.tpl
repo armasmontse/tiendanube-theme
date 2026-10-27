@@ -1416,6 +1416,12 @@ a.NT-produc-seemore:hover {
 		<div id="carrucon" class="containerflex-carrucel carrucel-container-index">
 
 			<div class="block12 carrucel-container carrucel-aparecer">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-pxp-royals">
+					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261023_Banner_SH_Royale_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Royale, nueva presentación.">
+					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261023_Banner_SH_Royale_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Royale, nueva presentación.">
+				</a>
+			</div>
+			<div class="block12 carrucel-container carrucel-aparecer">
 				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-cafe-fusion/">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Banner_SH_Cafe_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta| Producto del mes">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Banner_SH_Cafe_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Producto del mes">
@@ -1546,6 +1552,18 @@ a.NT-produc-seemore:hover {
 								<div class="innerbackdot"></div>
 							</div>
 						</td>
+						<td class="dotscs">
+							<div class="innerdotc_pause">
+								<svg viewBox="0 0 20 20">
+									<path class="st0" d="M6.8,3.9h0c1.1,0,2,.9,2,2v8.3c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2V5.8c0-1.1.9-2,2-2Z"/>
+									<rect class="st0" x="11.8" y="3.9" width="4" height="12.3" rx="2" ry="2"/>
+								</svg>
+							</div>
+							<div class="dotsc">
+								<div class="innerdots"></div>
+								<div class="innerbackdot"></div>
+							</div>
+						</td>
 						
 					</tr>
 				</table>
@@ -1590,6 +1608,18 @@ a.NT-produc-seemore:hover {
 					<div class="dotsc">
 						<div class="innerbackdot"></div>
 						<div class="innerdots"></div>
+					</div>
+				</td>
+				<td class="dotscs">
+					<div class="innerdotc_pause">
+						<svg viewBox="0 0 20 20">
+							<path class="st0" d="M6.8,3.9h0c1.1,0,2,.9,2,2v8.3c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2V5.8c0-1.1.9-2,2-2Z"/>
+							<rect class="st0" x="11.8" y="3.9" width="4" height="12.3" rx="2" ry="2"/>
+						</svg>
+					</div>
+					<div class="dotsc">
+						<div class="innerdots"></div>
+						<div class="innerbackdot"></div>
 					</div>
 				</td>
 				<td class="dotscs">
@@ -2054,8 +2084,8 @@ a.NT-produc-seemore:hover {
 					<div class="image-container-product">
 						<div class="carousel-promotional-tag wellness-tag">WELLNESS</div>
 						
-						<a href="https://mx.shopenzacta.com/productos/alfa-pxp-royale1/" target="_blank">
-							<img alt="alfa PXP ROYALE está hecho de arroz morado con nuestro proceso propietario que preserva las propiedades de superfood del arroz morado, y aprovecha nutrientes esenciales para supercargar tu wellness." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/ROAYALEs-250428.png">
+						<a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals" target="_blank">
+							<img alt="Enzacta | Royale, nueva presentación." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261023__Royale30.png">
 						</a>
 						
 						<div class="product-promotional-icon-container">
@@ -2089,11 +2119,11 @@ a.NT-produc-seemore:hover {
 						    </div>
 						    <span>(8)</span>
 						</div>
-						<p class="NT-product-info">90 tomas (454 g) y 30 tomas (150 g)</p>
+						<p class="NT-product-info">30 sobres de 5 g en polvo</p>
 						<a class="NT-produc-seemore" href="https://mx.shopenzacta.com/alfa-pxp-royale/">
 							Saber más >
 						</a>
-						<a class="container_button" href="https://mx.shopenzacta.com/productos/alfa-pxp-royale1/" target="_blank">
+						<a class="container_button" href="https://mx.shopenzacta.com/productos/alfa-pxp-royals" target="_blank">
 							<div class="product-promotional-button">
 								COMPRAR
 							</div>
