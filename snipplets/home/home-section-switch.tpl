@@ -1422,9 +1422,9 @@ a.NT-produc-seemore:hover {
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-cafe-fusion/">
-					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Banner_SH_Cafe_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta| Producto del mes">
-					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Banner_SH_Cafe_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Producto del mes">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-yakunaah/">
+					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261101_Banner_SH_Yakunaah_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta| Producto del mes">
+					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261101_Banner_SH_Yakunaah_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Producto del mes">
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-desaparecer">
@@ -2357,7 +2357,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" target="_blank">
-							<img alt="ENZACTA | alfa YAKUNAAH - Nueva presentación" class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261022_YakunaahNew_v6.png">
+							<img alt="ENZACTA | alfa YAKUNAAH - Nueva presentación" class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261101_YakunaahNew_badge.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
@@ -2568,7 +2568,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-cafe-fusion/" target="_blank">
-							<img alt="alfa CAFÉ FUSION Signature Blend está hecho con granos de café 100% arábigo colombiano, adicionado con Coffeeberry, para darte sabor, aroma y salud en cada taza." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261001_Cafe_v2.png">
+							<img alt="alfa CAFÉ FUSION Signature Blend está hecho con granos de café 100% arábigo colombiano, adicionado con Coffeeberry, para darte sabor, aroma y salud en cada taza." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/CAFE-250428.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
