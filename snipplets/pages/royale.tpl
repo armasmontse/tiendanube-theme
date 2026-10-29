@@ -261,7 +261,7 @@ hr {
 	.in-mcontainer-izq-imge {
 		width: 100%;
 		background-position-y: 10px;
-		background-size: 624px auto
+		background-size: 624px auto;
 	}
 	.in-spoints {
 		padding-top: 90px
@@ -482,11 +482,11 @@ hr {
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
                                 <div style="text-align: center; margin-top: 15px;">
-                                    <a href="https://mx.shopenzacta.com/wellbeing/alfa-pxp-royal/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
-                                    <a href="https://www.youtube.com/watch?v=0rVtHT0lcRM" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left: 25px;" target="_blank">VIDEO</a>
+                                    <a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
+                                    <a href="https://www.youtube.com/shorts/ypt4YFUXRLc" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left: 25px;" target="_blank">VIDEO</a>
                                 </div>
                             </div>
-                            <div class="in-simage"><img  class="in-simages" src="https://enzactamedia.enzacta.com/prod/images/alfa-pxp-royale-bottle-ingredient.jpg" alt="alfa PXP ROYALE - Bottle ingredients"></div>
+                            <div class="in-simage"><img  class="in-simages" src="https://enzactamedia.enzacta.com/prod/images/261028__Royale.jpg" alt="alfa PXP ROYALE - Nueva presentación"></div>
                             <div class="in-spoints">
                                 <p class="in-scontainer-get">Beneficios:</p>
                                 <ul>
@@ -502,8 +502,8 @@ hr {
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
                                 <div style="text-align: center; margin: 15px;">
-                                    <a href="https://mx.shopenzacta.com/productos/alfa-pxp-royale1/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
-                                    <a href="https://www.youtube.com/watch?v=0rVtHT0lcRM" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left: 25px;" target="_blank">VIDEO</a>
+                                    <a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
+                                    <a href="https://www.youtube.com/shorts/ypt4YFUXRLc" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left: 25px;" target="_blank">VIDEO</a>
                                 </div>
                             </div>
                             <span class="cf"></span>

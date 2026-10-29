@@ -509,11 +509,11 @@ hr {
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
                                 <div style="text-align: center; margin-top: 15px;">
-                                    <a href="https://mx.shopenzacta.com/vitality/alfa-yakunaah1/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
-                                    <a href="https://www.youtube.com/watch?v=TeLq1UmyoTM" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left:25px;" target="_blank" aria-describedby="a11y-new-window-external-message" rel="null noopener">VIDEO</a>
+                                    <a href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
+                                    <a href="https://www.youtube.com/watch?v=hNwFRmHOaUs" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left:25px;" target="_blank" aria-describedby="a11y-new-window-external-message" rel="null noopener">VIDEO</a>
                                 </div>
                             </div>
-                            <div class="in-simage"><img class="in-simages" src="https://enzactamedia.enzacta.com/prod/images/alfa-yakunaah-bottle-ingredient.jpg" alt="alfa YAKUNAAH  - Bottle ingredients"></div>
+                            <div class="in-simage"><img class="in-simages" src="https://enzactamedia.enzacta.com/prod/images/261029__Yakunaah.jpg" alt="alfa YAKUNAAH - Nueva presentación"></div>
                             <div class="in-spoints">
                                 <p class="in-scontainer-get">Beneficios:</p>
                                 <ul>
@@ -530,7 +530,7 @@ hr {
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
                                 <div style="text-align: center; margin-top: 15px;">
                                     <a href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
-                                    <a href="https://www.youtube.com/watch?v=TeLq1UmyoTM" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left:25px;" target="_blank" aria-describedby="a11y-new-window-external-message" rel="null noopener">VIDEO</a>
+                                    <a href="https://www.youtube.com/watch?v=hNwFRmHOaUs" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left:25px;" target="_blank" aria-describedby="a11y-new-window-external-message" rel="null noopener">VIDEO</a>
                                 </div>
                             </div>
                             <span class="cf"></span>

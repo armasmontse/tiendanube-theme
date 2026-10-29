@@ -2356,6 +2356,59 @@ a.NT-produc-seemore:hover {
 					<div class="image-container-product">
 						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
 						
+						<a href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" target="_blank">
+							<img alt="ENZACTA | alfa YAKUNAAH - Nueva presentación" class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261022_YakunaahNew_v6.png">
+						</a>
+
+						<div class="product-promotional-icon-container">
+							<div class="img-wrapper-tag">
+								<img alt="alfa YAKUNAAH con adaptógenos" class="image-icon-product-tag callme-tag" data-in="CON ADAPTÓGENOS" src="https://enzactamedia.enzacta.com/shopenzacta/img/icono_adaptogenos.png">
+							</div>
+							<div class="img-wrapper-tag">
+								<img alt="alfa YAKUNAAH con antioxidantes" class="image-icon-product-tag callme-tag" data-in="CON ANTIOXIDANTES" src="https://enzactamedia.enzacta.com/shopenzacta/img/icono_antioxidante.png">
+							</div>
+							<div class="img-wrapper-tag">
+								<img alt="alfa YAKUNAAH con delicioso sabor" class="image-icon-product-tag callme-tag" data-in="DELICIOSO SABOR" src="https://enzactamedia.enzacta.com/shopenzacta/img/icono_deliciososabor.png">
+							</div>
+							<div class="img-wrapper-tag">
+								<img alt="alfa YAKUNAAH 100% natural" class="image-icon-product-tag callme-tag" data-in="100% NATURAL" src="https://enzactamedia.enzacta.com/shopenzacta/img/icono_100natural.png">
+							</div>
+						</div>
+					</div>
+					<div class="product-promotional-item-divider"></div>
+					<div class="carousel-promotional-inner">
+						<h3 class="carousel-promotional-subtitle">VITALITY</h3>
+						<h2 class="product-promotional-title">
+							alfa YAKUNAAH
+						</h2>
+						<div class="reviewsapp reviewsapp-productRating recife">
+						    <div class="reviewsapp-rating reviewsapp-readOnly" data-score="5.0" title="Excelente">
+						        <img alt="1" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;17&quot; height=&quot;17&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path fill=&quot;%23eea500&quot; d=&quot;M32 12.408l-11.056-1.607-4.944-10.018-4.944 10.018-11.056 1.607 8 7.798-1.889 11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" title="Excelente">
+						        <img alt="2" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;17&quot; height=&quot;17&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path fill=&quot;%23eea500&quot; d=&quot;M32 12.408l-11.056-1.607-4.944-10.018-4.944 10.018-11.056 1.607 8 7.798-1.889 11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" title="Excelente">
+						        <img alt="3" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;17&quot; height=&quot;17&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path fill=&quot;%23eea500&quot; d=&quot;M32 12.408l-11.056-1.607-4.944-10.018-4.944 10.018-11.056 1.607 8 7.798-1.889 11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" title="Excelente">
+						        <img alt="4" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;17&quot; height=&quot;17&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path fill=&quot;%23eea500&quot; d=&quot;M32 12.408l-11.056-1.607-4.944-10.018-4.944 10.018-11.056 1.607 8 7.798-1.889 11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" title="Excelente">
+						        <img alt="5" src="data:image/svg+xml;utf8,&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;17&quot; height=&quot;17&quot; viewBox=&quot;0 0 32 32&quot;&gt;&lt;path fill=&quot;%23eea500&quot; d=&quot;M32 12.408l-11.056-1.607-4.944-10.018-4.944 10.018-11.056 1.607 8 7.798-1.889 11.011 9.889-5.199 9.889 5.199-1.889-11.011 8-7.798z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;" title="Excelente">
+						    </div>
+						    <span>(4)</span>
+						</div>
+						<p class="NT-product-info">30 sobres (30 ml).</p>
+						<a href="https://mx.shopenzacta.com/alfa-yakunaah1/" class="NT-produc-seemore">
+							Saber más >
+						</a>
+						<a class="container_button" href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" target="_blank">
+							<div class="product-promotional-button">
+								COMPRAR
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="block03f">
+				<div class="product-promotional-item">
+					<div class="image-container-product">
+						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
+						
 						<a href="https://mx.shopenzacta.com/productos/alfa-b12/" target="_blank">
 
 							
