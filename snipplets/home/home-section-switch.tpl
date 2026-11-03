@@ -2357,7 +2357,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" target="_blank">
-							<img alt="ENZACTA | alfa YAKUNAAH - Nueva presentación" class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261103_YakunaahNew_badge.png">
+							<img alt="ENZACTA | alfa YAKUNAAH - Nueva presentación" class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261103_YakunaahNew_badge_v2.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
