@@ -2085,7 +2085,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag wellness-tag">WELLNESS</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals" target="_blank">
-							<img alt="Enzacta | Royale, nueva presentación." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261023__Royale30.png">
+							<img alt="Enzacta | Royale, nueva presentación." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261103__Royale30.png">
 						</a>
 						
 						<div class="product-promotional-icon-container">
@@ -2357,7 +2357,7 @@ a.NT-produc-seemore:hover {
 						<div class="carousel-promotional-tag vitality-tag">VITALITY</div>
 						
 						<a href="https://mx.shopenzacta.com/productos/alfa-yakunaah/" target="_blank">
-							<img alt="ENZACTA | alfa YAKUNAAH - Nueva presentación" class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261101_YakunaahNew_badge.png">
+							<img alt="ENZACTA | alfa YAKUNAAH - Nueva presentación" class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261103_YakunaahNew_badge.png">
 						</a>
 
 						<div class="product-promotional-icon-container">
