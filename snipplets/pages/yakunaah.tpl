@@ -16,7 +16,7 @@
 
 .in-mbanner {
 	min-height: 600px;
-	background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah.png) no-repeat fixed top;
+	background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah-261030.png) no-repeat fixed top;
 	background-size: 624px auto;
 	background-position-y: 105px
 }
@@ -219,7 +219,7 @@
 		background-size: 624px auto
 	}
 	.in-mbanner {
-		background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah.png) no-repeat top;
+		background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah-261030.png) no-repeat top;
 		background-position-y: 10px;
 		background-size: 624px auto
 	}
@@ -273,7 +273,7 @@
 		background-size: 624px auto
 	}
 	.in-mbanner {
-		background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah.png) no-repeat top;
+		background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah-261030.png) no-repeat top;
 		background-position-y: 10px;
 		background-size: 624px auto
 	}
