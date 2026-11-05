@@ -161,7 +161,7 @@
 @media only screen and (max-width:1160px) {
 	.in-mtitle {
 		padding-top: 220px;
-		font-size: 12rem
+		font-size: 9rem
 	}
 	.in-mtitle-mid {
 		font-size: 5rem!important
