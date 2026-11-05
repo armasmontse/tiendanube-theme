@@ -16,7 +16,7 @@
 
 .in-mbanner {
 	min-height: 600px;
-	background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah-261030.png) no-repeat fixed top;
+	background: url(https://enzactamedia.enzacta.com/prod/images/261105_Yakunaah_fondo.png) no-repeat fixed top;
 	background-size: 624px auto;
 	background-position-y: 105px
 }
@@ -219,7 +219,7 @@
 		background-size: 624px auto
 	}
 	.in-mbanner {
-		background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah-261030.png) no-repeat top;
+		background: url(https://enzactamedia.enzacta.com/prod/images/261105_Yakunaah_fondo.png) no-repeat top;
 		background-position-y: 10px;
 		background-size: 624px auto
 	}
@@ -273,7 +273,7 @@
 		background-size: 624px auto
 	}
 	.in-mbanner {
-		background: url(https://enzactamedia.enzacta.com/prod/images/super-fruit-juice-yakunaah-261030.png) no-repeat top;
+		background: url(https://enzactamedia.enzacta.com/prod/images/261105_Yakunaah_fondo.png) no-repeat top;
 		background-position-y: 10px;
 		background-size: 624px auto
 	}
@@ -488,7 +488,7 @@ hr {
                                     <!--<h4>alfa YAKUNAAH</h4>-->
                                     <p>alfa YAKUNAAH es un gel shot de superfrutas y hierbas adaptógenas, rico en potasio, calcio, magnesio, hierro, manganeso, cobre, zinc y vitaminas C, B y E. Su delicioso sabor a jugo natural te ayuda a alcanzar un estado sano de equilibrio. Recupérate del estrés y del cansancio con cada práctico sobre de una porción.</p>
                                 </div>
-                                <div class="in-mcontainer-izq-img"><img class = "in-mcontainer-izq-imge" src="https://enzactamedia.enzacta.com/prod/images/fruits-alfa-yakunaah.jpg" alt="alfa YAKUNAAH - fruits"></div>
+                                <div class="in-mcontainer-izq-img"><img class = "in-mcontainer-izq-imge" src="https://enzactamedia.enzacta.com/prod/images/261105_Yakunaah_frutas.jpg" alt="alfa YAKUNAAH - fruits"></div>
                             </div>
                             <div class="in-mcontainer-der"><img src="https://enzactamedia.enzacta.com/prod/images/splash-juice-yukunaah.jpg" alt="alfa YAKUNAAH - splash juice"></div>
                             <span class="cf"></span>
