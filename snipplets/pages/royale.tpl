@@ -458,7 +458,7 @@ hr {
                                     <h3>Live Long</h3>
                                     <!--<h4>alfa PXP ROYALE</h4>-->
                                     <p>
-                                        alfa PXP ROYALE está hecho de arroz morado con nuestro proceso propietario que preserva las propiedades de superfood del arroz morado, y aprovecha nutrientes esenciales para super cargar tu wellness.
+										Más allá de la protección antioxidante tradicional, alfa PXP ROYALE aprovecha la estructura molecular nativa del arroz morado para aportar micronutrientes de fácil absorción. Esta formulación actúa como un soporte biológico integral frente a la fatiga metabólica, ayudando a preservar la integridad celular y a mantener la vitalidad interna en perfecto equilibrio ante los desafíos diarios.
                                     </p>
                                 </div>
                                 <div class="in-mcontainer-izq-img"><img class = "in-mcontainer-izq-imge" src="https://enzactamedia.enzacta.com/prod/images/ear-purple-rice.jpg" alt="alfa PXP ROYALE - the purple royalty rice."></div>
@@ -471,13 +471,13 @@ hr {
                                 <p class="in-scontainer-get">Beneficios:</p>
                                 <ul>
                                     <li>
-                                        <p>Efectivo: alto valor nutricional tiene hasta 200 veces más antioxidantes que otros arroces.</p>
+                                        <p><strong>Bioasimilación superior:</strong> Formulaciones micronizadas diseñadas para una absorción rápida y eficiente, sin sobrecargar el sistema digestivo.</p>
                                     </li>
                                     <li>
-                                        <p>Natural: Hecho con ingredientes 100% naturales.</p>
+                                        <p><strong>Sostén del rendimiento diario:</strong> Contribuye a mitigar el agotamiento celular inducido por el estrés urbano y por la actividad física o mental constante.</p>
                                     </li>
                                     <li>
-                                        <p>Libre: No contiene gluten, colorantes, químicos, aditivos, saborizantes artificiales, conservadores ni azúcares añadidos.</p>
+                                        <p><strong>Regeneración de ritmo continuo:</strong> Apoya los mecanismos naturales de autorreparación del organismo para mantener una sensación de frescura y vitalidad prolongada.</p>
                                     </li>
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
@@ -491,13 +491,13 @@ hr {
                                 <p class="in-scontainer-get">Beneficios:</p>
                                 <ul>
                                     <li>
-                                        <p>Efectivo: alto valor nutricional tiene hasta 200 veces más antioxidantes que otros arroces.</p>
+                                        <p><strong>Bioasimilación superior:</strong> Formulaciones micronizadas diseñadas para una absorción rápida y eficiente, sin sobrecargar el sistema digestivo.</p>
                                     </li>
                                     <li>
-                                        <p>Natural: Hecho con ingredientes 100% naturales.</p>
+                                        <p><strong>Sostén del rendimiento diario:</strong> Contribuye a mitigar el agotamiento celular inducido por el estrés urbano y por la actividad física o mental constante.</p>
                                     </li>
                                     <li>
-                                        <p>Libre: No contiene gluten, colorantes, químicos, aditivos, saborizantes artificiales, conservadores ni azúcares añadidos.</p>
+                                        <p><strong>Regeneración de ritmo continuo:</strong> Apoya los mecanismos naturales de autorreparación del organismo para mantener una sensación de frescura y vitalidad prolongada.</p>
                                     </li>
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>

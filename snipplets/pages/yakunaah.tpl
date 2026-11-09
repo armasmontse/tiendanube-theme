@@ -486,7 +486,7 @@ hr {
                                 <div class="in-mcontainer-izq-text">
                                     <h3>Love Life</h3>
                                     <!--<h4>alfa YAKUNAAH</h4>-->
-                                    <p>alfa YAKUNAAH es un gel shot de superfrutas y hierbas adaptógenas, rico en potasio, calcio, magnesio, hierro, manganeso, cobre, zinc y vitaminas C, B y E. Su delicioso sabor a jugo natural te ayuda a alcanzar un estado sano de equilibrio. Recupérate del estrés y del cansancio con cada práctico sobre de una porción.</p>
+                                    <p>Diseñado para modular la respuesta neuroendocrina ante las exigencias del entorno moderno, alfa YAKUNAAH actúa como catalizador del equilibrio interno. Su matriz botánica sinérgica ayuda a estabilizar la respuesta orgánica ante la sobrecarga sensorial, permitiendo mantener la templanza y el enfoque analítico en escenarios de alta presión.</p>
                                 </div>
                                 <div class="in-mcontainer-izq-img"><img class = "in-mcontainer-izq-imge" src="https://enzactamedia.enzacta.com/prod/images/261105_Yakunaah_frutas.jpg" alt="alfa YAKUNAAH - fruits"></div>
                             </div>
@@ -498,13 +498,13 @@ hr {
                                 <p class="in-scontainer-get">Beneficios:</p>
                                 <ul>
                                     <li>
-                                        <p>Rico en adaptógenos.</p>
+                                        <p><strong>Modulación del estrés agudo:</strong> Favorece la estabilidad neuroquímica para evitar el desgaste mental precipitado ante picos de alta exigencia.</p>
                                     </li>
                                     <li>
-                                        <p>100% natural.</p>
+                                        <p><strong>Soporte homeostático sostenido:</strong> Apoya los procesos de autorregulación del organismo, optimizando la recuperación posesfuerzo sin alterar los ciclos de descanso.</p>
                                     </li>
                                     <li>
-                                        <p>Contiene una dosis de antioxidantes.</p>
+                                        <p><strong>Integridad metabólica:</strong> Promueve una nutrición funcional de alta biodisponibilidad que acompaña los ritmos de vida dinámicos y las dinámicas de trabajo intensas.</p>
                                     </li>
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
@@ -518,13 +518,13 @@ hr {
                                 <p class="in-scontainer-get">Beneficios:</p>
                                 <ul>
                                     <li>
-                                        <p>Rico en adaptógenos.</p>
+                                        <p><strong>Modulación del estrés agudo:</strong> Favorece la estabilidad neuroquímica para evitar el desgaste mental precipitado ante picos de alta exigencia.</p>
                                     </li>
                                     <li>
-                                        <p>100% natural.</p>
+                                        <p><strong>Soporte homeostático sostenido:</strong> Apoya los procesos de autorregulación del organismo, optimizando la recuperación posesfuerzo sin alterar los ciclos de descanso.</p>
                                     </li>
                                     <li>
-                                        <p>Contiene una dosis de antioxidantes.</p>
+                                        <p><strong>Integridad metabólica:</strong> Promueve una nutrición funcional de alta biodisponibilidad que acompaña los ritmos de vida dinámicos y las dinámicas de trabajo intensas.</p>
                                     </li>
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
