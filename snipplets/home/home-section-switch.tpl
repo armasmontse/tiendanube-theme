@@ -1416,6 +1416,12 @@ a.NT-produc-seemore:hover {
 		<div id="carrucon" class="containerflex-carrucel carrucel-container-index">
 
 			<div class="block12 carrucel-container carrucel-aparecer">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos">
+					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261110_Banner_SH_BF_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Buen Fin 2026">
+					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261110_Banner_SH_BF_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Buen Fin 2026">
+				</a>
+			</div>
+			<div class="block12 carrucel-container carrucel-aparecer">
 				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-yakunaah/">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261101_Banner_SH_Yakunaah_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta| Producto del mes">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261101_Banner_SH_Yakunaah_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Producto del mes">
@@ -1445,18 +1451,6 @@ a.NT-produc-seemore:hover {
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260609_Banner_SH_Probio_mob_v2.jpg" loading="lazy" fetchpriority="high" alt="ProBio360 | Lanzamiento">
 				</a>
 			</div>
-			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-dha">
-					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2605_Banner_SH_DHA_desk.jpg" loading="lazy">
-					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2605_Banner_SH_DHA_mob.jpg" loading="lazy">
-				</a>
-			</div>
-			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-rxp-con-resveratrol">
-					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2603_Banner_SH_RXP_desktop.jpg" loading="lazy">
-					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/2603_Banner_SH_RXP_mobile.jpg" loading="lazy">
-				</a>
-			</div>
 			<div class="block12 carrucel-container carrucel-desaparecer">
 				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-pxp-forte2">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/260312_Banner-FORTE-desk_v2.jpg" loading="lazy">
@@ -1478,18 +1472,6 @@ a.NT-produc-seemore:hover {
 							<div class="dotsc">
 								<div class="innerbackdot"></div>
 								<div class="innerdots"></div>
-							</div>
-						</td>
-						<td class="dotscs">
-							<div class="innerdotc_pause">
-								<svg viewBox="0 0 20 20">
-									<path class="st0" d="M6.8,3.9h0c1.1,0,2,.9,2,2v8.3c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2V5.8c0-1.1.9-2,2-2Z"/>
-									<rect class="st0" x="11.8" y="3.9" width="4" height="12.3" rx="2" ry="2"/>
-								</svg>
-							</div>
-							<div class="dotsc">
-								<div class="innerdots"></div>
-								<div class="innerbackdot"></div>
 							</div>
 						</td>
 						<td class="dotscs">
@@ -1608,18 +1590,6 @@ a.NT-produc-seemore:hover {
 					<div class="dotsc">
 						<div class="innerbackdot"></div>
 						<div class="innerdots"></div>
-					</div>
-				</td>
-				<td class="dotscs">
-					<div class="innerdotc_pause">
-						<svg viewBox="0 0 20 20">
-							<path class="st0" d="M6.8,3.9h0c1.1,0,2,.9,2,2v8.3c0,1.1-.9,2-2,2h0c-1.1,0-2-.9-2-2V5.8c0-1.1.9-2,2-2Z"/>
-							<rect class="st0" x="11.8" y="3.9" width="4" height="12.3" rx="2" ry="2"/>
-						</svg>
-					</div>
-					<div class="dotsc">
-						<div class="innerdots"></div>
-						<div class="innerbackdot"></div>
 					</div>
 				</td>
 				<td class="dotscs">
