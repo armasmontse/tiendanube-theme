@@ -1428,7 +1428,7 @@ a.NT-produc-seemore:hover {
 				</a>
 			</div>
 			<div class="block12 carrucel-container carrucel-aparecer">
-				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-pxp-royals">
+				<a class="nodrag" href="https://mx.shopenzacta.com/productos/alfa-pxp-royals1">
 					<img class="visibledesk image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261023_Banner_SH_Royale_desk.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Royale, nueva presentación.">
 					<img class="visibledevice image_carrousel_main" src="https://enzactamedia.enzacta.com/shopenzacta/img/261023_Banner_SH_Royale_mob.jpg" loading="eager" fetchpriority="high" alt="Enzacta | Royale, nueva presentación.">
 				</a>
@@ -2054,7 +2054,7 @@ a.NT-produc-seemore:hover {
 					<div class="image-container-product">
 						<div class="carousel-promotional-tag wellness-tag">WELLNESS</div>
 						
-						<a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals" target="_blank">
+						<a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals1" target="_blank">
 							<img alt="Enzacta | Royale, nueva presentación." class="carousel-promotional-image-item" src="https://enzactamedia.enzacta.com/shopenzacta/img/261103__Royale30.png">
 						</a>
 						
@@ -2093,7 +2093,7 @@ a.NT-produc-seemore:hover {
 						<a class="NT-produc-seemore" href="https://mx.shopenzacta.com/alfa-pxp-royale/">
 							Saber más >
 						</a>
-						<a class="container_button" href="https://mx.shopenzacta.com/productos/alfa-pxp-royals" target="_blank">
+						<a class="container_button" href="https://mx.shopenzacta.com/productos/alfa-pxp-royals1" target="_blank">
 							<div class="product-promotional-button">
 								COMPRAR
 							</div>

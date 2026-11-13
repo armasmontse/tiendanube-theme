@@ -482,7 +482,7 @@ hr {
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
                                 <div style="text-align: center; margin-top: 15px;">
-                                    <a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
+                                    <a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals1/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
                                     <a href="https://www.youtube.com/shorts/0qM0Lsvoe-M" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left: 25px;" target="_blank">VIDEO</a>
                                 </div>
                             </div>
@@ -502,7 +502,7 @@ hr {
                                 </ul>
                                 <p style="border: solid; color: #34383d; padding: 10px;">*Estas declaraciones no han sido evaluadas por la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés). Este producto no está destinado a diagnosticar, tratar, curar o prevenir ninguna enfermedad.</p>
                                 <div style="text-align: center; margin: 15px;">
-                                    <a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
+                                    <a href="https://mx.shopenzacta.com/productos/alfa-pxp-royals1/" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="/*! background: #5e469c;">Comprar Ahora</a>
                                     <a href="https://www.youtube.com/shorts/0qM0Lsvoe-M" class="button_type_3 tt_uppercase color-ROYALE fs_small transparent r_corners d_inline_b tr_all linkFix" style="margin-left: 25px;" target="_blank">VIDEO</a>
                                 </div>
                             </div>
